@@ -1,0 +1,2 @@
+Weight ratio for Dimension 1: 2.1110172271728516
+Weight ratio for Dimension 2: 1.0552940368652344

@@ -1,0 +1,41 @@
+                          Model  Accuracy  Precision    Recall  F1 Score  \
+0           K-Nearest Neighbors  0.830416   0.654602  0.597244  0.624609   
+1                   Naive Bayes  0.534304   0.330120  0.943838  0.489152   
+2        Support Vector Machine  0.859959   0.762752  0.591004  0.665983   
+3                 Decision Tree  0.810945   0.597019  0.614405  0.605587   
+4                 Random Forest  0.852650   0.723371  0.609204  0.661397   
+5                      AdaBoost  0.860267   0.751039  0.611024  0.673835   
+6             Gradient Boosting  0.870954   0.795262  0.611024  0.691075   
+7  Linear Discriminant Analysis  0.843806   0.715372  0.562663  0.629894   
+8        Multi-layer Perceptron  0.839998   0.697549  0.569683  0.627165   
+9           Logistic Regression  0.853019   0.730124  0.599324  0.658289   
+
+        AUC  
+0  0.856061  
+1  0.751280  
+2  0.899664  
+3  0.743069  
+4  0.901736  
+5  0.913684  
+6  0.920808  
+7  0.892424  
+8  0.887510  
+9  0.905447  
+Performance Metrics:
+Algorithm                           Accuracy   Precision  Recall     F1-Score   AUC       
+K-Nearest Neighbors                 0.83       0.65       0.60       0.62       0.86
+Naive Bayes                         0.53       0.33       0.94       0.49       0.75
+Support Vector Machine              0.86       0.76       0.59       0.67       0.90
+Decision Tree                       0.81       0.60       0.61       0.61       0.74
+Random Forest                       0.85       0.72       0.61       0.66       0.90
+AdaBoost                            0.86       0.75       0.61       0.67       0.91
+Gradient Boosting                   0.87       0.80       0.61       0.69       0.92
+Linear Discriminant Analysis        0.84       0.72       0.56       0.63       0.89
+Multi-layer Perceptron              0.84       0.70       0.57       0.63       0.89
+Logistic Regression                 0.85       0.73       0.60       0.66       0.91
+
+Best Algorithms:
+Best algorithm for Accuracy: Gradient Boosting
+Best algorithm for Precision: Gradient Boosting
+Best algorithm for Recall: Naive Bayes
+Best algorithm for F1-Score: Gradient Boosting

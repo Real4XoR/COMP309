@@ -1,0 +1,23 @@
+                               Model           MSE          RMSE  
+0                  Linear Regression  1.226797e-23  3.502567e-12   
+1             K-Neighbors Regression  7.403461e-01  8.604336e-01   
+2                   Ridge Regression  4.990641e-16  2.233974e-08   
+3           Decision Tree Regression  2.118403e+00  1.455474e+00   
+4           Random Forest Regression  4.440102e-01  6.663409e-01   
+5       Gradient Boosting Regression  8.092768e+02  2.844779e+01   
+6                     SGD Regression  1.858744e+34  1.363357e+17   
+7          Support Vector Regression  1.083034e+07  3.290948e+03   
+8                         Linear SVR  5.046540e-07  7.103900e-04   
+9  Multi-layer Perceptron Regression  2.160182e+00  1.469756e+00   
+
+            RSE           MAE  Execution Time  
+0  7.563179e-31  2.580428e-12        0.059402  
+1  4.564217e-08  4.056483e-01        1.584617  
+2  3.076719e-23  1.344003e-08        0.035459  
+3  1.305991e-07  4.774441e-01        0.776183  
+4  2.737313e-08  2.801607e-01       58.477613  
+5  4.989174e-05  1.888440e+01       12.765646  
+6  1.145911e+27  1.221636e+17        4.058879  
+7  6.676881e-01  1.871310e+03      257.109576  
+8  3.111181e-14  5.213341e-04        8.242259  
+9  1.331748e-07  1.157214e+00       10.914031

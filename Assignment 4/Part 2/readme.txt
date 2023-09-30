@@ -1,0 +1,1 @@
+Run using Jupyter NoteBook and make sure data file are located in "Ass4Data/part1 - classification"
